@@ -1,0 +1,45 @@
+{
+  "folders": [
+    {
+      "name": "🏠 Project Root",
+      "path": "."
+    },
+    {
+      "name": "⚛️ Frontend (React)",
+      "path": "./frontend"
+    },
+    {
+      "name": "🔧 Backend (API)",
+      "path": "./backend"
+    },
+    {
+      "name": "📚 Documentation",
+      "path": "./docs"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/node_modules": true,
+      "**/.git": true,
+      "**/dist": true,
+      "**/build": true
+    },
+    "search.exclude": {
+      "**/node_modules": true,
+      "**/dist": true,
+      "**/build": true
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "dsznajder.es7-react-js-snippets",
+      "rangav.vscode-thunder-client",
+      "eamodio.gitlens",
+      "esbenp.prettier-vscode",
+      "dbaeumer.vscode-eslint",
+      "formulahendry.auto-rename-tag",
+      "ms-vscode.vscode-postgresql",
+      "ms-azuretools.vscode-docker"
+    ]
+  }
+}
